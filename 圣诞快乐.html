@@ -152,7 +152,7 @@ top: 90px;" src="./圣诞快乐_files/b2b334de37594bc08be0131815930cd2~noop.imag
 	        <div class="type-wrap" style=" padding: 10px 35px 0px 0px; position: absolute; top: 0px;  left: 35px;  z-index: 500; color: #ffffff; font-size: 14px;    ">
 	            <div id="typed-strings" style="display: none; text-align:center; ">
  <p></p>
-	                <p><br><br>我爱你宝宝✨<br>过几天我就是你的新年礼物<br>🔔 🍎 🎊 ℳᴇʀʀᎽ🎅 ྀིℂʜʀɪsᴛᴍᴀs🎄🍬</p>
+	                <p><br><br>亲爱的麒乖乖✨<br>这是独属你的限定圣诞礼物<br>请签收~<br>遇见你，从此凛冬散尽，星河长明<br>我选择了宝宝，就认定是你，永远是你<br>想你，实在无法一句话表达<br>圣诞快乐我的宝宝<br>日子不慌不忙，我们来日方长~<br>期待有你的每一天<br>期待和你去做更多的事<br>我爱你宝宝<br>🔔 🍎 🎊 ℳᴇʀʀᎽ🎅 ྀིℂʜʀɪsᴛᴍᴀs🎄🍬</p>
 <!--<img src="static/picture/3.jpg" style="max-width:100%">-->
 
 	            </div>
