@@ -71,6 +71,7 @@
     
     
  <script src="./圣诞快乐_files/monitors.3.6.36.cn.js.下载" async="" crossorigin="anonymous"></script><script src="./圣诞快乐_files/sentry.3.6.36.cn.js.下载" async="" crossorigin="anonymous"></script></head>
+<body onclick="bodyPlayMusic()" style="">
 
 <img id="music_ico" onclick="clickMusic()" alt="" style=" display: inline; float: right;  ">
 <audio id="audio" src="https://sf6-cdn-tos.douyinstatic.com/obj/ies-music/6905357668872063752.mp3" preload="auto" loop="loop"></audio>
@@ -81,6 +82,17 @@
      <!--<a href="https://mp.weixin.qq.com/s/eRlpwDhKvq9e1rIgM1YI7Q"   class="hide_buttom"   style="position: fixed;top: 4%;right: 10px;width: 40px;height: 40px;z-index: 999;background: #696969;border-radius: 50%;padding: 3.0px;text-align: center;color: #ffffff;text-decoration: none;   clear: both; line-height: 36px; 	margin:auto;   font-size: 15px;   ">制作</a>-->
      
      
+
+
+
+
+
+
+
+
+
+
+   
 
           <!--<a href="https://mp.weixin.qq.com/s/C3wf9p5qBXXv9tPd88H_uA"   class="hide_buttom"   style="-->
           <!--position: fixed;-->
